@@ -15,3 +15,5 @@ are not checked in
 6. Include override files you do wish to add to version control using negated pattern
 7. Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
 8. Ignore CLI configuration files
+
+### comment by branch named "fix"
